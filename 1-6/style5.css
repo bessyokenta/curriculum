@@ -1,0 +1,67 @@
+.wrapper{
+    width: 600px;
+    margin: auto;
+}
+
+.clearfix::after { 
+    content: ''; 
+    display: block; 
+    clear: both;
+}
+
+.one{
+    background-color: #FFFF00;
+    width: 600px;
+    height: 150px;
+}
+
+.two{
+    width: 600px;
+    height: 150px;
+}
+
+.two1{
+    background-color: #33FFFF;
+    width: 200px;
+    height: 150px;
+    float: left;
+}
+
+.two2{
+    background-color: #FF0000;
+    width: 200px;
+    height: 150px;
+    float: left;
+}
+
+.two3{
+    background-color: #0000FF;
+    width: 200px;
+    height: 150px;
+    float: left;
+}
+
+.three{
+    width: 600px;
+    height: 150px;
+}
+
+.three1{
+    background-color: #00FF00;
+    width: 450px;
+    height: 150px;
+    float: left;
+}
+
+.three2{
+    background-color: #FF00FF;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+
+.four{
+    background-color: #33FFFF;
+    width: 600px;
+    height: 150px;
+}
